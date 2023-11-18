@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Brie</h1>
-<h3 align="center">A fullstack engineer, passion about learning and collaborating.</h3>
+<h3 align="center">A fullstack engineer with a passion for learning and collaborating.</h3>
 
 - 🔭 I’m currently working on [MN Queer Party Archive](https://github.com/BrieMorris/queer_party_archive)
 
