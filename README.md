@@ -6,7 +6,7 @@
   
 - 💚 I am most proud of [MN Queer Party Archive](https://github.com/BrieMorris/queer_party_archive)
   
-- I was the team leader on the 
+- 💫 I was the team leader on the https://github.com/BrieMorris/Mind_Wisk
 
 - 🌱 I’m currently learning **Agile and scrum methodologies.**
 
