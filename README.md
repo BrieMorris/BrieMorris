@@ -14,7 +14,7 @@
   
 - 😄 Pronouns: They/Them & She/Her 
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1DUB4jQsi7gnJB3yPMnwPrpQXAZjYZUFDMr_okyeRNw0/edit?usp=sharing](https://docs.google.com/document/d/1DUB4jQsi7gnJB3yPMnwPrpQXAZjYZUFDMr_okyeRNw0/edit?usp=sharing)
+- 📄 Know about my experiences (https://docs.google.com/document/d/1cS1VvblcdkWkHx9mLozFgWH_aoUwjmqCKPcBgQsaNS8/edit?usp=sharing)
 
 - ⚡ Fun fact **I love board games and horror movies.**
 
