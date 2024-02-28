@@ -8,7 +8,7 @@
   
 - 💫 I was the team leader on the https://github.com/BrieMorris/Mind_Wisk
 
-- 🌱 I’m currently learning **Agile and scrum methodologies.**
+- 🌱 I’m currently learning AWS and Terraform.
 
 - 📫 How to reach me **morris.brie@gmail.com**
   
