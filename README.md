@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Brie</h1>
 <h3 align="center">A fullstack engineer with a passion for learning and collaborating.</h3>
 
-- 🔭 I’m currently working on a reactive native mobile app. 
+- 🔭 I’m currently working on hosting my MN Queer Party archive on AWS using Terraform.  
   
 - 💚 I am most proud of [MN Queer Party Archive](https://github.com/BrieMorris/queer_party_archive)
   
