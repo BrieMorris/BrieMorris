@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **morris.brie@gmail.com**
   
-- 😄 Pronouns: They/Them & She/Her 
+- 😄 Pronouns: She/Her 
 
 - 📄 Know about my experiences (https://docs.google.com/document/d/1cS1VvblcdkWkHx9mLozFgWH_aoUwjmqCKPcBgQsaNS8/edit?usp=sharing)
 
